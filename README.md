@@ -6,8 +6,10 @@
 
   - Perceptron
     - Simple Perceptron - Python
-    - Multilayer Perceptron - Python
+    - Multilayer Perceptron - Python, Tensorflow, Keras
+  - Convolutional Neural Network
+    - [Wide Residual Network](https://arxiv.org/pdf/1605.07146.pdf) - Keras
   - Recurrent Neural Network
-    - RNN - Tensorflow
+    - RNN - Tensorflow, Keras
     - RNN Encoder-Decoder - Tensorflow, Keras
     - RNN Encoder-Decoder with Soft Attention - Keras
